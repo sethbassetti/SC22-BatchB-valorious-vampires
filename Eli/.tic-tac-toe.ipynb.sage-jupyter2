@@ -1,0 +1,4 @@
+{"backend_state":"init","kernel":"nlp_env","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"c8f399","input":"\n\n\ndef playerMove(input)\n\n\ndef computerMove()\n\ndef main()\n    board = [3][3]\n\n\n\n\n\n\n\n\n\n\n\n\n\n","pos":0,"type":"cell"}
+{"id":0,"time":1656440034166,"type":"user"}
+{"last_load":1656508755650,"type":"file"}

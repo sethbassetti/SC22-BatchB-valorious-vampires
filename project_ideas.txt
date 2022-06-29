@@ -1,0 +1,27 @@
+- meme generator
+
+- email writer (makes emails look more professional)
+
+- word art generater
+
+- tweet generator
+
+- recipe generator??? bad recipes??? lol
+
+- music generator, sheet music generator
+
+- town name generator
+
+- campaign finance detector for politicians (twitter)
+
+- Maybe a system that recognizes when companies/politicians are 
+      using words that are misleading? Something of a "bullshit"
+      generator (would be based on a text input and use keywords/phrases)
+      
+- A detector that checks the latest news on a given topic and tells 
+      if the news is bad or good, so say you entered puppies it would
+      most likely return good
+
+- npc dialogue generator
+
+

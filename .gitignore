@@ -1,3 +1,6 @@
 NLP-Notebooks-Summer-2022
 miniconda3
-
+Terminal.term
+nltk_data
+.*
+!.git*

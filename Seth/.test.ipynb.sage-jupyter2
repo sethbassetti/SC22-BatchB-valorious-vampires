@@ -1,0 +1,4 @@
+{"backend_state":"ready","kernel":"nlp_env","trust":true,"type":"settings"}
+{"id":"e964d4","input":"print(\"Hello World\")","pos":0,"state":"done","type":"cell"}
+{"id":0,"time":1656436395922,"type":"user"}
+{"last_load":1656435941268,"type":"file"}

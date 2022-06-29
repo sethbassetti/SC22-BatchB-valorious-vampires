@@ -1,4 +1,4 @@
-{"backend_state":"running","connection_file":"/projects/7a0c9ef7-3361-4399-8d40-1da8ddeb76b0/.local/share/jupyter/runtime/kernel-2a3919da-a3e9-4051-9850-469a518ceed8.json","kernel":"nlp_env","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"colab":{"name":"intro_to_python_new.ipynb","provenance":[]},"interpreter":{"hash":"08210294964727e4010dccc398c44f22b92a2e77e2aceea574ad21eae77cd8e8"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.13"},"orig_nbformat":4},"trust":true,"type":"settings"}
+{"backend_state":"init","connection_file":"/projects/7a0c9ef7-3361-4399-8d40-1da8ddeb76b0/.local/share/jupyter/runtime/kernel-2a3919da-a3e9-4051-9850-469a518ceed8.json","kernel":"nlp_env","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"colab":{"name":"intro_to_python_new.ipynb","provenance":[]},"interpreter":{"hash":"08210294964727e4010dccc398c44f22b92a2e77e2aceea574ad21eae77cd8e8"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.13"},"orig_nbformat":4},"trust":true,"type":"settings"}
 {"cell_type":"code","end":1656350210035,"exec_count":3,"id":"321035","input":"d = a + b\nd","kernel":"nlp_env","metadata":{"id":"HnvmeRonWETF"},"output":{"0":{"data":{"text/plain":"3"},"exec_count":3}},"pos":6,"start":1656350210022,"state":"done","type":"cell"}
 {"cell_type":"code","end":1656350243911,"exec_count":4,"id":"b463f7","input":"a = 1\nb = 2\nc = 3\ne = 7\ne\n","kernel":"nlp_env","metadata":{"id":"EhZ2mV0_WETE"},"output":{"0":{"data":{"text/plain":"7"},"exec_count":4}},"pos":4,"start":1656350243902,"state":"done","type":"cell"}
 {"cell_type":"code","end":1656351597136,"exec_count":5,"id":"4f9468","input":"x = input(\"Hello\")","kernel":"nlp_env","metadata":{"id":"hhV1R2lRWETT"},"output":{"0":{"name":"input","opts":{"password":false,"prompt":"Hello"},"value":"hi"}},"pos":52,"start":1656351589780,"state":"done","type":"cell"}
@@ -150,5 +150,5 @@
 {"id":"3f3dcc","input":"","pos":0.5,"type":"cell"}
 {"id":"bc3364","input":"","pos":3.5,"type":"cell"}
 {"id":"f11dc8","input":"","pos":45.5,"type":"cell"}
-{"id":0,"time":1656355740699,"type":"user"}
-{"last_load":1656350112506,"type":"file"}
+{"id":0,"time":1656437823625,"type":"user"}
+{"last_load":1656422881235,"type":"file"}
